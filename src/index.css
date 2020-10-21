@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css");
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto Mono", monospace;
+  background-color: pink;
+}
+
+.box {
+  background-color: #fff;
+  width: 240px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3px;
+  width: 98%;
+  cursor: pointer;
+}
+
+input {
+  width: 150px;
+  outline: none;
+  font-weight: 600;
+}
+
+.fa-heart:active {
+  color: red;
+}
+
+.fa-plus:active {
+  color: white;
+}
+
+button {
+  cursor: pointer;
+}
+
+hr {
+  width: 95%;
+  height: 2px;
+  background: green;
+}
+
+/* .quarter-circle-bottom-right {
+  width: 40px;
+  height: 40px;
+  float: right;
+  background: lightgreen;
+  border-radius: 100px 8px 8px 8px;
+} */
+
+.name {
+  color: purple;
+}
+
+.render {
+  text-align: center;
+}
