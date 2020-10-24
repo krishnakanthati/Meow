@@ -186,7 +186,7 @@ img {
   padding: 3px;
   width: 98%;
   cursor: pointer;
-  z-index: -1;
+  /* z-index: -1; */
 }
 
 input {
