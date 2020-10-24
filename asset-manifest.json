@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Meow/static/css/main.f185016d.chunk.css",
+    "main.css": "/Meow/static/css/main.c27c1a43.chunk.css",
     "main.js": "/Meow/static/js/main.c8d53d9f.chunk.js",
     "main.js.map": "/Meow/static/js/main.c8d53d9f.chunk.js.map",
     "runtime-main.js": "/Meow/static/js/runtime-main.da3454b7.js",
@@ -8,9 +8,9 @@
     "static/js/2.a1af2fd3.chunk.js": "/Meow/static/js/2.a1af2fd3.chunk.js",
     "static/js/2.a1af2fd3.chunk.js.map": "/Meow/static/js/2.a1af2fd3.chunk.js.map",
     "index.html": "/Meow/index.html",
-    "precache-manifest.44b6b339a9767109f4ce6e3cb1e1585a.js": "/Meow/precache-manifest.44b6b339a9767109f4ce6e3cb1e1585a.js",
+    "precache-manifest.f5e04b58c66b0e18309c69455f044afc.js": "/Meow/precache-manifest.f5e04b58c66b0e18309c69455f044afc.js",
     "service-worker.js": "/Meow/service-worker.js",
-    "static/css/main.f185016d.chunk.css.map": "/Meow/static/css/main.f185016d.chunk.css.map",
+    "static/css/main.c27c1a43.chunk.css.map": "/Meow/static/css/main.c27c1a43.chunk.css.map",
     "static/js/2.a1af2fd3.chunk.js.LICENSE.txt": "/Meow/static/js/2.a1af2fd3.chunk.js.LICENSE.txt",
     "static/media/arrow.48ae6434.svg": "/Meow/static/media/arrow.48ae6434.svg",
     "static/media/bell.e9fd40a7.svg": "/Meow/static/media/bell.e9fd40a7.svg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.da3454b7.js",
     "static/js/2.a1af2fd3.chunk.js",
-    "static/css/main.f185016d.chunk.css",
+    "static/css/main.c27c1a43.chunk.css",
     "static/js/main.c8d53d9f.chunk.js"
   ]
 }
