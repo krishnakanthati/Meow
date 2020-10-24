@@ -88,6 +88,7 @@ a {
   padding: 1rem;
   overflow: hidden;
   transition: height var(--speed) ease;
+  z-index: 1;
 }
 
 .menu {
@@ -186,7 +187,7 @@ img {
   padding: 3px;
   width: 98%;
   cursor: pointer;
-  z-index: 1;
+  /* z-index: -1; */
 }
 
 input {
